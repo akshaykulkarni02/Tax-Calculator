@@ -1,3 +1,10 @@
+/* Project description : 
+    1. Take Inputs from user (Name and Income).
+    2. Based on Annual Income , Assign the Tax percentage as per Indian Tax System.
+    3. And show the Output with Name, Annual Income and Taxes in Rupee.
+
+*/
+
 package com.akshay.javaapp.taxcalculator;
 
 import java.util.Scanner;
