@@ -62,7 +62,7 @@ public class TaxCalculator {
         }
         System.out.println("Hello " + name + "\n" +
                             "Your Annual Income is: " + income+ "\u20B9"+ " " + "\n" +
-                            "Your are liable to pay: " + '\u20B9'+" "+ tax + " tax");
+                            "You are liable to pay: " + '\u20B9'+" "+ tax + " tax");
 
     }
 }
